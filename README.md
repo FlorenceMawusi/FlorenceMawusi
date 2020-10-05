@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hello World (❁´◡`❁)
 
 <!--
-**FlorenceMawusi/FlorenceMawusi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is Florence Mawusi Yawa Ofori and I am a software developer!
 
 - 🔭 I’m currently working on an emotional intelligence training software for companies. 
