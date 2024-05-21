@@ -1,6 +1,6 @@
 ### Hello World (❁´◡`❁)
 
-My name is Florence Mawusi Yawa Ofori and I am a AI software engineer.
+My name is Florence Mawusi Yawa Ofori and I am an AI software engineer.
 
 -  I am an ex-Googler, where I worked on machine learning projects related to AI for social good.
 -  I’am currently working on LLM projects for business processes. 
