@@ -1,14 +1,9 @@
 ### Hello World (❁´◡`❁)
 
-<!--
-My name is Florence Mawusi Yawa Ofori and I am a software developer!
+My name is Florence Mawusi Yawa Ofori and I am a AI software engineer.
 
-- 🔭 I’m currently working on an emotional intelligence training software for companies. 
-- 🌱 I’m currently learning the MERN (MongoDB, Express, React, and Node.js) stack.
-- 👯 I’m looking to collaborate on building a real estate company and developing an ecommerce platform for feminine hygiene products. 
-- 🤔 I’m looking for help with getting an internship with an international company next semester. 
+- 🔭 I am an ex-Googler, where I worked on machine learning projects related to AI for social good.
+- 🌱 I’am currently working on LLM projects for business processes. 
 
-- 📫 How to reach me: florenceoforixyz@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: comedian in the making 🙃
--->
+- 📫  Have a problem you want to solve with AI? I can help you! Reach me here: florenceofori.fo@gmail.com
+- ⚡ Fun fact: I love reading psychology!
